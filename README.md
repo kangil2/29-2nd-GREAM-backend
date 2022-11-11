@@ -6,7 +6,7 @@
 
 ## 개발 인원 및 기간
 
-+ 개발기간: 2021.2.14. ~ 2022.02.25.
++ 개발기간: 2022.2.14. ~ 2022.02.25.
 	+ Backend: 이도운, 이강일 (repository: https://github.com/wecode-bootcamp-korea/29-2nd-GREAM-backend)
 	
 	+ Backend
